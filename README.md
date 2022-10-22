@@ -56,3 +56,10 @@ SEGA Genesis Mini
 ![SEGA](https://github.com/txuswashere/Sega-MegaDrive/raw/main/MegaDrive/40roadrash2.jpg "SEGA")
 ![SEGA](https://github.com/txuswashere/Sega-MegaDrive/raw/main/MegaDrive/41tetris.jpg "SEGA")
 ![SEGA](https://github.com/txuswashere/Sega-MegaDrive/raw/main/MegaDrive/42darius.jpg "SEGA")
+
+* https://github.com/txuswashere/Sega-Genesis
+* https://github.com/txuswashere/Sega-MegaDrive
+* https://github.com/txuswashere/Sega32X
+* https://github.com/txuswashere/Sega-32X
+* https://github.com/txuswashere/Genesis
+* https://github.com/txuswashere/MegaDrive
